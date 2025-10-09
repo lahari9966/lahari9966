@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **laharibethi18@gmail.com** For Collaboration/Project or An
 
 - 🔭 **I’m currently working on:** A Predictive Modeling Project using Python
 - 🌱 **I’m currently learning:** Scikit-learn
-- 👯 **I’m looking to collaborate on: Open source projects related to **Financial Data Analysis** 
+- 👯 **I’m looking to collaborate on:** Open source projects related to **Financial Data Analysis** 
 - 🤔 **I’m looking for help with:** Optimizing a large scale for real time data ingestion in a streaming analytics pipeline
 - 📫 **How to reach me:** laharibethi18@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
